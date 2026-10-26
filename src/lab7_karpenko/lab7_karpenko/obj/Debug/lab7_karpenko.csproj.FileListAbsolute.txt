@@ -1,0 +1,7 @@
+E:\4kurs\ССиТД\LABA_4\src\lab7_karpenko\lab7_karpenko\bin\Debug\lab7_karpenko.exe.config
+E:\4kurs\ССиТД\LABA_4\src\lab7_karpenko\lab7_karpenko\bin\Debug\lab7_karpenko.exe
+E:\4kurs\ССиТД\LABA_4\src\lab7_karpenko\lab7_karpenko\bin\Debug\lab7_karpenko.pdb
+E:\4kurs\ССиТД\LABA_4\src\lab7_karpenko\lab7_karpenko\obj\Debug\lab7_karpenko.csproj.AssemblyReference.cache
+E:\4kurs\ССиТД\LABA_4\src\lab7_karpenko\lab7_karpenko\obj\Debug\lab7_karpenko.csproj.CoreCompileInputs.cache
+E:\4kurs\ССиТД\LABA_4\src\lab7_karpenko\lab7_karpenko\obj\Debug\lab7_karpenko.exe
+E:\4kurs\ССиТД\LABA_4\src\lab7_karpenko\lab7_karpenko\obj\Debug\lab7_karpenko.pdb
